@@ -13,7 +13,7 @@
         <introspection-scope>
           <node kind="schema">
             <name qname="test" />
-            <name qname="myNewDB" />
+            <name qname="myNewerDB" />
           </node>
         </introspection-scope>
       </schema-mapping>
